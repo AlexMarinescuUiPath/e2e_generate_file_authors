@@ -1,0 +1,28 @@
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\File Authors.exe
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\File Authors.deps.json
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\File Authors.runtimeconfig.json
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\File Authors.dll
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\File Authors.pdb
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\LibGit2Sharp.dll
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\runtimes\linux-arm\native\libgit2-a418d9d.so
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\runtimes\linux-arm64\native\libgit2-a418d9d.so
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libgit2-a418d9d.so
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libgit2-a418d9d.so
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libgit2-a418d9d.so
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\runtimes\linux-x64\native\libgit2-a418d9d.so
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\runtimes\osx-arm64\native\libgit2-a418d9d.dylib
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\runtimes\osx-x64\native\libgit2-a418d9d.dylib
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\runtimes\win-arm64\native\git2-a418d9d.dll
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\runtimes\win-x64\native\git2-a418d9d.dll
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\bin\Debug\net8.0\runtimes\win-x86\native\git2-a418d9d.dll
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\obj\Debug\net8.0\File Authors.csproj.AssemblyReference.cache
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\obj\Debug\net8.0\File Authors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\obj\Debug\net8.0\File Authors.AssemblyInfoInputs.cache
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\obj\Debug\net8.0\File Authors.AssemblyInfo.cs
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\obj\Debug\net8.0\File Authors.csproj.CoreCompileInputs.cache
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\obj\Debug\net8.0\File Aut.12FFD76E.Up2Date
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\obj\Debug\net8.0\File Authors.dll
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\obj\Debug\net8.0\refint\File Authors.dll
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\obj\Debug\net8.0\File Authors.pdb
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\obj\Debug\net8.0\File Authors.genruntimeconfig.cache
+C:\Users\alexandru.marinescu\source\repos\File Authors\File Authors\obj\Debug\net8.0\ref\File Authors.dll

@@ -1,0 +1,222 @@
+ValidateErrorDetection.cs - pawelpopielarski
+ValidateBreakpoints.cs - Pawel Popielarski
+ValidateBreakpointsInTriggerActivities.cs - petrut.teris
+ValidateCallStackPanelStructure.cs - pawelpopielarski
+ValidateDebugActions.cs - petrut.teris
+ValidateDebugPanels.cs - pawelpopielarski
+ValidateEnhancedDebuggingExperience.cs - pawelpopielarski
+ValidateGlobalExceptionHandler.cs - petrut.teris
+ValidateLongRunningWorkflow.cs - pawelpopielarski
+ValidateRDRemoteMachine.cs - petrut.teris
+ValidateRDUnattendedRobot.cs - petrut.teris
+ValidateRemoteConnectionType.cs - petrut.teris
+ValidateTestActivity.cs - pawelpopielarski
+ValidateTriggersNoGEH.cs - petrut.teris
+ValidateTriggersWithGEH.cs - petrut.teris
+CalloutTests.cs - Andrei Balint
+DragDropComponentTest.cs - Andrei Balint
+CheckPackagesCompatibilityByProjectType.cs - anghelescugeorgiana
+CheckPackagesSearchAndFilters.cs - raducucu82
+LibraryPublishWithCertificateTest.cs - pawelpopielarski
+LibraryPublishWithWebServiceTest.cs - gpanaitescu
+ProcessPublishWithEntryPointArguments.cs - pawelpopielarski
+ProcessPublish_ActivityStorage.cs - AndreiSingeorzan
+AddActivity.cs - AndreiSingeorzan
+CreateAndRunCodedWorkflow.cs - Razvan Rotaru
+CreateAndRunWorkflow.cs - Razvan Rotaru
+CreateNewLegacyProcessWithoutGovernanceTest.cs - petrut.teris
+CreateNewProcessTest.cs - petrut.teris
+ExtensionManagerGeneralFunctionalityAndDisplayTest.cs - iulianmone16
+BaseTest.cs - Marius Bughiu
+Uses_Design_And_Runtime_Storage.cs - AndreiSingeorzan
+CanAnalyzeCrossPlatformProject.cs - Andrei Balint
+CanAnalyzeLegacyProject.cs - Andrei Balint
+CanAnalyzeWindowsProject.cs - Andrei Balint
+ValidateChangingOfFonts.cs - alberto-carp
+ValidateChangingOfFontSize.cs - alberto-carp
+ValidateDefaultValues.cs - alberto-carp
+ValidateVisualComponents.cs - alberto-carp
+CreateAndDebugCodedTestCase.cs - alberto-carp
+CreateNewCodedTestCase.cs - alberto-carp
+AsyncCodedTestCaseTests.cs - alberto-carp
+BreakpointsPanelTests.cs - alberto-carp
+BreakpointsPanelWithConditionTests.cs - alberto-carp
+DebugWithBreakpointTests.cs - alberto-carp
+ExecutionErrorTests.cs - Gabriela Vaduva
+ImmediateTests.cs - alberto-carp
+LocalsTests.cs - alberto-carp
+RemoveBreakpointWhileExecutingTests.cs - alberto-carp
+StepInMultipleSourcesTests.cs - alberto-carp
+StepInOverDebuggingTests.cs - alberto-carp
+WatchesTests.cs - alberto-carp
+CommentUncommentTests.cs - alberto-carp
+FindAllReferencesTests.cs - alberto-carp
+FormatDocumentTests.cs - Gabriela Vaduva
+GoToDefinitionTests.cs - alberto-carp
+GoToImplementationTests.cs - Gabriela Vaduva
+GoToLineTests.cs - Gabriela Vaduva
+ImportCompletionTests.cs - alberto-carp
+ImportMissingDependenciesTests.cs - alberto-carp
+RemoveUnusuedNamespacesTests.cs - alberto-carp
+RenameSymbolTests.cs - alberto-carp
+TypingIntellisenseTests.cs - alberto-carp
+TypingTests.cs - alberto-carp
+ErrorsPanelComplexScenario.cs - alberto-carp
+ErrorsPanelTests.cs - alberto-carp
+FindAndReplace_Find.cs - alberto-carp
+FindAndReplace_FindNext.cs - alberto-carp
+FindAndReplace_Replace.cs - alberto-carp
+CrossCWDebugXamlInteroperabilityTests.cs - alberto-carp
+CrossCWXamlInteroperabilityTests.cs - alberto-carp
+DesignTimeBuildTests.cs - alberto-carp
+GeneratorsExtensionsTests.cs - alberto-carp
+GeneratorsTests.cs - alberto-carp
+ObjectRepositoryExtensionsTests.cs - alberto-carp
+SystemActivitiesPackTests.cs - alberto-carp
+TestingActivitiesPackTests.cs - alberto-carp
+UIAutomationActivitiesPackTests.cs - alberto-carp
+AnalizingTests.cs - alberto-carp
+ProcessPublishTests.cs - alberto-carp
+ValidationTests.cs - alberto-carp
+GenerateOutputVariable.cs - viogroza
+Validate10ArgumentsCanBeCreated.cs - iulianmone16
+ValidateAnnotationsFunctionality.cs - iulianmone16
+ValidateArgDefaultValueAndFindReferencesWhenUsedInActivity.cs - iulianmone16
+ValidateArgumentCanBeRenamed.cs - iulianmone16
+ValidateConvertToVariableFunctionality.cs - iulianmone16
+ValidateCreateArgumentDesigner.cs - iulianmone16
+ValidateCreateArgumentFunctionality.cs - iulianmone16
+ValidateEditAndDeleteArgumentFunctionality.cs - iulianmone16
+Validate10ConstantsCanBeCreated.cs - iulianmone16
+ValidateAllGlobalConstantsTypes.cs - IoanDanielSavu
+ValidateConstantCanNotBeRenamed.cs - iulianmone16
+ValidateConstDefaultValueAndFindReferencesWhenUsedInActivity.cs - iulianmone16
+ValidateCreateConstantDesigner.cs - iulianmone16
+ValidateCreateConstantFunctionality.cs - iulianmone16
+ValidateEditAndDeleteConstantFunctionality.cs - iulianmone16
+Validate10VariablesCanBeCreated.cs - iulianmone16
+ValidateConvertToArgumentFunctionality.cs - iulianmone16
+ValidateCreateVariableDesigner.cs - iulianmone16
+ValidateCreateVariableFunctionality.cs - iulianmone16
+ValidateEditAndDeleteVariableFunctionality.cs - iulianmone16
+ValidateVarDefaultValueAndFindReferencesWhenUsedInActivity.cs - iulianmone16
+ValidateVariableAnnotationsFunctionality.cs - iulianmone16
+ValidateVariableCanBeRenamed.cs - iulianmone16
+ValidateVariableCanHaveScopeChanged.cs - iulianmone16
+NewProject_OB_Available.cs - AndreiSingeorzan
+SyncObjectsBaseTest.cs - Marian Ciovirta
+SyncObjects_Loading.cs - Marian Ciovirta
+SyncObjects_NoActivities.cs - Marian Ciovirta
+SyncObjects_SaveWorkflows.cs - Marian Ciovirta
+SyncObjects_Synchronizing.cs - Marian Ciovirta
+ManageEditableFeeds.cs - raducucu82
+CheckDependencies.cs - raducucu82
+ProjectActivitySettings_EnforceValues.cs - ciprian-paraschivescu
+ProjectActivitySettings_EnforceValuesOnDebug.cs - ciprian-paraschivescu
+ProjectActivitySettings_EnforceValuesOnRuntime.cs - ciprian-paraschivescu
+ErrorWindowTests.cs - IoanDanielSavu
+BindingsBaseTest.cs - Pawel Popielarski
+LibraryBindingsDAP.cs - Pawel Popielarski
+LibraryBindingsInProcess.cs - pawelpopielarski
+LibraryBindingsInProcess2Workflows.cs - Pawel Popielarski
+LibraryBindingsInvoke.cs - Pawel Popielarski
+PublishProjectWithLocalAssemblies.cs - Andrei-Liviu Ungureanu
+DependencyChangesInProcess.cs - Pawel Popielarski
+GovernanceForSeparation.cs - Pawel Popielarski
+LibraryLoadedInProcess.cs - pawelpopielarski
+LibraryWithActivityLayout.cs - Pawel Popielarski
+SeparationBaseTest.cs - Pawel Popielarski
+SubdependencyInProcess.cs - Pawel Popielarski
+UiLibraryLoadedInProcess.cs - Pawel Popielarski
+SanityProjectOpen.cs - andrei-ungureanu-uipath
+ConstantStrings.cs - Pawel Popielarski
+SettingsChangeLanguageTest.cs - ciprian-paraschivescu
+SettingsChangeThemeTest.cs - ciprian-paraschivescu
+GITSourceControlPluginEnabled.cs - AlexMarinescuUiPath
+SVNSourceControlPluginEnabled.cs - AlexMarinescuUiPath
+TFSSourceControlPluginEnabled.cs - AlexMarinescuUiPath
+ValidateSaveToCloud.cs - Petrut Teris
+AnalyzeBeforeCheckIn.cs - raducucu82
+CopyToGit.cs - Marius Bughiu
+GitInit.cs - Marius Bughiu
+CreateTestCaseFromWorkflow.cs - Alvin Stanescu
+NewTestAutomationProject.cs - Alvin Stanescu
+AvailableContextMenuActionsOnMultipleTestCases.cs - liviu-nicolae
+AvailableContextMenuActionsOnTestCase.cs - liviu-nicolae
+ConvertTestCaseToWorkflow.cs - liviu-nicolae
+ConvertWorkflowToTestCase.cs - liviu-nicolae
+CopyPasteTestCases.cs - liviu-nicolae
+DebugTestCase.cs - liviu-nicolae
+FilterTestCases.cs - liviu-nicolae
+RunTestCases.cs - liviu-nicolae
+PublishTestCasesOnCustom_Fail.cs - Betty Dobre
+PublishTestCasesOnCustom_Success.cs - Betty Dobre
+PublishTestCasesOnOrchestrator_Fail.cs - Betty Dobre
+PublishTestCasesOnOrchestrator_Success.cs - Betty Dobre
+CreateCodedTestCaseFromWorkflowWithFileTestData.cs - Alvin Stanescu
+CreateTestCaseWithFileTestData.cs - Alvin Stanescu
+TestCaseWithDataServiceArgHasDefaultValue.cs - Andrei
+RunAllSummary.cs - Alvin Stanescu
+RunFailedStatuses.cs - Alvin Stanescu
+TestExplorerStructure.cs - Alvin Stanescu
+GenerateTestCase.cs - Razvan Rotaru
+GenerateTestCaseUsingObjects.cs - Alvin Stanescu
+TestManagerConstants.cs - Alvin Stanescu
+Creates_Deletes_Trigger_Argument.cs - AndreiSingeorzan
+Creates_Project_With_Triggers_And_Runs.cs - AndreiSingeorzan
+ModernBehaviorAsDefault.cs - leonard-apostoaie
+AiSequenceBaseTest.cs - IoanDanielSavu
+AiSequenceGenerationTest.cs - IoanDanielSavu
+AiSequenceMultipleGenerationTest.cs - IoanDanielSavu
+AiSequenceUndoRedoTest.cs - IoanDanielSavu
+BookmarksNavigation.cs - andrei-ungureanu-uipath
+BookmarksSanity.cs - andrei-ungureanu-uipath
+DesignerBugs.cs - Pawel Popielarski
+SetEnvironmentVariable.cs - ciprian-paraschivescu
+GlobalVariablesAvailability.cs - IoanDanielSavu
+GlobalVariablesSupport.cs - IoanDanielSavu
+CheckInArguments.cs - raducucu82
+LegacyPropertiesPanel.cs - IoanDanielSavu
+RemoveUnusedArgumentsOnlyFromCurrentFile.cs - ciprian-paraschivescu
+RemoveUnusedImports.cs - Alex Oltean
+RemoveUnusedScreenshots.cs - David Barzi
+RemoveUnusedVariables.cs - Alex Oltean
+RemoveUnusedVariablesOnlyFromCurrentFile.cs - ciprian-paraschivescu
+RemoveUnusedWorkflows.cs - raducucu82
+UndoRedoInWorkflowDesigner.cs - raducucu82
+CheckFileValidationShortcut.cs - ciprian-paraschivescu
+CheckProjectValidationShortcut.cs - ciprian-paraschivescu
+NamespacesAndReferencesAreUpdatedAsExpected.cs - andrei-ungureanu-uipath
+VariablesInCSharp_AreCaseSensitive.cs - Alexandru Oltean
+VariablesInVB_AreCaseInsensitive.cs - Alexandru Oltean
+When_DesignerIsClosed_Then_ItIsNotLeaked.cs - Andrei Balint
+MultipleWorkflowsNavigation.cs - IoanDanielSavu
+SingleWorkflowNavigation.cs - IoanDanielSavu
+SpecialCasesNavigation.cs - IoanDanielSavu
+ValidateBulkCreateArgumentsDesigner.cs - iulianmone16
+ValidateBulkCreateArgumentsFunctinality.cs - iulianmone16
+LicenseAndProfileTest.cs - Pawel Popielarski
+LocationsTest.cs - Pawel Popielarski
+SettingsCodeEditorTest.cs - Pawel Popielarski
+SettingsGeneralTest.cs - Pawel Popielarski
+SettingsManageSources.cs - Pawel Popielarski
+UniversalSearch_ShowsCorrectNumberOfResults.cs - astridstaicu
+WidgetActionButton.cs - leonard-apostoaie
+AdvancedExpressionEditorPersistsContent.cs - andrei-ungureanu-uipath
+WidgetAutoCompleteAddValueAdvancedEditor.cs - leonard-apostoaie
+WidgetAutoCompleteDataSourcePageLoading.cs - leonard-apostoaie
+WidgetAutoCompleteDefaultSaveLoadClear.cs - leonard-apostoaie
+WidgetAutoCompleteFiltering.cs - leonard-apostoaie
+WidgetAutoCompleteLoadingDataSources.cs - leonard-apostoaie
+WidgetAutoCompleteValueOnlyFromDataSource.cs - leonard-apostoaie
+DictionaryWidgetBase.cs - leonard-apostoaie
+WidgetDictionaryArgumentLoadSaveRemove.cs - leonard-apostoaie
+WidgetDictionaryExpressionLoadSaveRemove.cs - leonard-apostoaie
+WidgetDictionaryLoadSaveRemove.cs - leonard-apostoaie
+WidgetDictionaryValidateCustomMetadata.cs - leonard-apostoaie
+WidgetDropdownPersistsValues.cs - leonard-apostoaie
+WidgetLocalResource.cs - leonard-apostoaie
+WidgetLocalResourceNotPresent.cs - leonard-apostoaie
+WidgetNumberConvertFromExpression.cs - andrei-ungureanu-uipath
+WidgetNumberPersistence.cs - andrei-ungureanu-uipath
+WidgetPasswordPersistsValues.cs - leonard-apostoaie
